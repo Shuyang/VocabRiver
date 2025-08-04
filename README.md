@@ -8,6 +8,9 @@ A Chrome extension that helps you build vocabulary naturally from your browsing 
 * Streamlined, minimalist interface for effortless vocabulary building
 
 ## Installation
+### Install the stable version from the [chrome web store](https://chromewebstore.google.com/detail/vocabriver/iiahnbiaogfbmjjfchcpbalkkabhphll)
+
+### Install the latest version from the code
 1. Download VocabRiver (and unzip if you downloaded the zipped file)
 2. In Chrome: "Manage Extensions" → turn on "Developer mode" → "Load unpacked" → choose the VocabRiver directory
 3. Start browsing and let your vocabulary river flow!
