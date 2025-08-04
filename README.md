@@ -8,7 +8,7 @@ A Chrome extension that helps you build vocabulary naturally from your browsing 
 * Streamlined, minimalist interface for effortless vocabulary building
 
 ## Installation
-### (Recommended) Install from the chrome web store
+###  Install from the chrome web store (recommended)
 [VocabRiver](https://chromewebstore.google.com/detail/vocabriver/iiahnbiaogfbmjjfchcpbalkkabhphll)
 
 ### Install the latest version from the code
